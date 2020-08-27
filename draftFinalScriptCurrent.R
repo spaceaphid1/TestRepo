@@ -6,6 +6,9 @@
 
 ####  Packages ####
 #+ message = FALSE, warning = FALSE
+
+## Testing to see if git adds changes to repo ##
+
 library(tidyverse)
 library(nlme)
 library(lattice) # contains function 'qqmath' for making qqplot for lmer model

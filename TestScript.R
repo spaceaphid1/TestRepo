@@ -9,6 +9,7 @@
 
 ## Testing to see if git adds changes to repo 2 ##
 ## Testing to see if git adds changes - done from computer and uploaded to github"
+## Testing commit stuffs
 
 library(tidyverse)
 library(nlme)
